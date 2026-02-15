@@ -1,4 +1,4 @@
-<img width="1330" height="738" alt="dashboard-2" src="https://github.com/user-attachments/assets/49469c94-6cd7-4f09-9b22-23dc7dce37d9" /><img width="1353" height="731" alt="dashboard -1" src="https://github.com/user-attachments/assets/06c1c7f0-3cd3-4973-b713-c9fc3ebe96bc" /><img width="1336" height="737" alt="bashboard -4" src="https://github.com/user-attachments/assets/3b5f143c-4490-4104-ba1f-e75737d638bc" /># 📱 Web Scraping & Exploratory Data Analysis of Flipkart Mobile Data
+📱 Web Scraping & Exploratory Data Analysis of Flipkart Mobile Data
 
 ## 📌 Project Overview
 
