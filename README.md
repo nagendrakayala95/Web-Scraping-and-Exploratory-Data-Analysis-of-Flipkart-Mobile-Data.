@@ -1,4 +1,4 @@
-# 📱 Web Scraping & Exploratory Data Analysis of Flipkart Mobile Data
+<img width="1330" height="738" alt="dashboard-2" src="https://github.com/user-attachments/assets/49469c94-6cd7-4f09-9b22-23dc7dce37d9" /><img width="1353" height="731" alt="dashboard -1" src="https://github.com/user-attachments/assets/06c1c7f0-3cd3-4973-b713-c9fc3ebe96bc" /><img width="1336" height="737" alt="bashboard -4" src="https://github.com/user-attachments/assets/3b5f143c-4490-4104-ba1f-e75737d638bc" /># 📱 Web Scraping & Exploratory Data Analysis of Flipkart Mobile Data
 
 ## 📌 Project Overview
 
@@ -76,6 +76,14 @@ The dataset contains:
    * Market trends
 
 ---
+
+<img width="1353" height="731" alt="dashboard -1" src="https://github.com/user-attachments/assets/aa6a702b-5243-43f4-a84f-2e1824265f64" />
+<img width="1330" height="738" alt="dashboard-2" src="https://github.com/user-attachments/assets/015cf48e-5ba5-47ba-9635-fa8a45f43827" />
+<img width="1352" height="738" alt="dashboard-3" src="https://github.com/user-attachments/assets/5c08b29a-af8a-4f1d-9a7a-c03c7c0bf5cc" />
+<img width="1336" height="737" alt="bashboard -4" src="https://github.com/user-attachments/assets/95fc383d-bb79-42a5-944e-81ba0b6a3804" />
+
+---
+
 
 ## 📊 Key Insights
 
