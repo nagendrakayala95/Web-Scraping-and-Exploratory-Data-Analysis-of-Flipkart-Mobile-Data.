@@ -77,13 +77,6 @@ The dataset contains:
 
 ---
 
-<img width="1353" height="731" alt="dashboard -1" src="https://github.com/user-attachments/assets/aa6a702b-5243-43f4-a84f-2e1824265f64" />
-<img width="1330" height="738" alt="dashboard-2" src="https://github.com/user-attachments/assets/015cf48e-5ba5-47ba-9635-fa8a45f43827" />
-<img width="1352" height="738" alt="dashboard-3" src="https://github.com/user-attachments/assets/5c08b29a-af8a-4f1d-9a7a-c03c7c0bf5cc" />
-<img width="1336" height="737" alt="bashboard -4" src="https://github.com/user-attachments/assets/95fc383d-bb79-42a5-944e-81ba0b6a3804" />
-
----
-
 
 ## 📊 Key Insights
 
